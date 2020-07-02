@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Using Jekyll with Github Pages, a 'blog' of sorts
 
-I'm glad you are here. I plan to talk about ...
+Here I am trying out Jekyll, hosted using Github pages, to see if static site generators are terrible or not. Lmao if anyone ever sees this.
